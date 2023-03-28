@@ -1,4 +1,0 @@
-{
-    "mdb.shell": "mongo",
-    "python.analysis.typeCheckingMode": "basic"
-}
